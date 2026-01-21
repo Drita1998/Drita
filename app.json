@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Drita",
+    "slug": "Drita",
+    "icon": "./assets/illyrianshield.png",
+    "splash": {
+      "image": "./assets/illyrianshield.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/illyrianshield.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
+
